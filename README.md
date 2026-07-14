@@ -14,7 +14,7 @@
 - 🎓 Certificações recentes: **Automação de Processos e Engenharia de Dados** (100h) e **RAG, GraphRAG e Agentic RAG** (96h), pela Data Science Academy.
 - 📈 Meu principal projeto de dados hoje é o **Balança RJ** — dashboards e análises de discrepâncias de peso (romaneio x balança), performance de transportadoras e conferentes.
 - ✍️ Escrevo no LinkedIn sobre gestão logística, indicadores de dados e o valor de "quem não mede não gerencia".
-- 🌱 Atualmente estudando: **TypeScript**, **POO em Python** e aprofundando **SQL** (JOINs, CTEs, window functions).
+- 🌱 Atualmente estudando: **TypeScript**, **Python** e aprofundando **SQL** (JOINs, CTEs, window functions).
 
 ---
 
