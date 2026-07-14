@@ -63,5 +63,3 @@ Dashboards interativos (HTML + Chart.js) para acompanhamento de discrepâncias d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<p align="center"><i>De conferir romaneios a conferir commits. 🚀</i></p>
